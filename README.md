@@ -16,19 +16,19 @@ This repository provides a comprehensive learning path for mastering modern Java
 
 ## Modules
 
-1. **[0x00. ES6 Basics](./0x00-ES6-Basics)**  
+1. **[0x00. ES6 Basics](https://github.com/aminetiouk/alx-frontend-javascript/tree/master/0x00-ES6_basic)**  
    Learn the essentials of ES6 syntax and key features introduced in ES6.
 
-2. **[0x01. ES6 Promises](./0x01-ES6-Promises)**  
+2. **[0x01. ES6 Promises](https://github.com/aminetiouk/alx-frontend-javascript/tree/master/0x01-ES6_promise)**  
    Dive into Promises to handle asynchronous operations in JavaScript.
 
-3. **[0x02. ES6 Classes](./0x02-ES6-Classes)**  
+3. **[0x02. ES6 Classes](https://github.com/aminetiouk/alx-frontend-javascript/tree/master/0x02-ES6_classes)**  
    Discover ES6 classes and write cleaner, object-oriented JavaScript.
 
-4. **[0x03. ES6 Data Manipulation](./0x03-ES6-Data-Manipulation)**  
+4. **[0x03. ES6 Data Manipulation](https://github.com/aminetiouk/alx-frontend-javascript/tree/master/0x03-ES6_data_manipulation)**  
    Explore ES6 array functions and other methods for effective data manipulation.
 
-5. **[0x04. TypeScript](./0x04-TypeScript)**  
+5. **[0x04. TypeScript](https://github.com/aminetiouk/alx-frontend-javascript/tree/master/0x04-TypeScript)**  
    Get started with TypeScript to add static typing to JavaScript and enhance code reliability and maintainability.
 
 ## Requirements
